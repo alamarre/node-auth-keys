@@ -20,7 +20,7 @@
     "eslint-config-brightspace": "^0.3.1",
     "find-requires": "^0.2.3",
     "istanbul": "^0.4.5",
-    "mocha": "^3.5.0",
+    "mocha": "^4.0.1",
     "sinon": "^3.2.0",
     "xtend": "^4.0.1"
   }
