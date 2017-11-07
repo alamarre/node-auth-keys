@@ -21,7 +21,7 @@
     "find-requires": "^0.2.3",
     "istanbul": "^0.4.5",
     "mocha": "^3.5.0",
-    "sinon": "^3.2.0",
+    "sinon": "^4.1.2",
     "xtend": "^4.0.1"
   }
 }
